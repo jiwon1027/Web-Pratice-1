@@ -533,7 +533,6 @@ a:focus {
   height: 215px;
   border-radius: 0 0 0 45px;
   margin: -1px;
-  padding: 25px;
 }
 
 .food_section .box .img-box img {
@@ -910,7 +909,7 @@ a:focus {
 .footer_section {
   background-color: #222831;
   color: #ffffff;
-  padding: 75px 0 40px 0;
+  padding: 40px 0 40px 0;
   text-align: center;
 }
 
